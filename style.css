@@ -4,22 +4,33 @@
     padding-right: 30px; 
     padding-bottom: 20px; 
     font-weight: normal;
+    margin: 20px;
 }
 .Lucas {
     font-size: 16px;
     padding-right: 30px; 
     padding-bottom: 20px; 
     font-weight: normal;
+    margin: 20px;
 }
 .Onze {
     font-size: 16px;
     padding-right: 30px; 
     padding-bottom: 20px; 
     font-weight: normal;
+    margin: 20px;
 }
 .Mike {
     font-size: 16px;
     padding-right: 30px; 
     padding-bottom: 20px; 
     font-weight: normal;
+    margin: 20px;
+}
+.texte {
+    width: 300px;
+    height: 175px;
+    margin: 20px;
+
+    background-color: #f5f5dc ;
 }
