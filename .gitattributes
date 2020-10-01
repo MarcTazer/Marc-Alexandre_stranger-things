@@ -1,2 +1,18 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<!doctype html>
+
+<html>	
+	<head>
+		<meta charset="utf-8" />
+		<script type='text/javascript'>
+			function afficherMessage () {
+				alert ('bonjour');
+			}
+		</script>
+	</head>
+	
+	<body>
+		<input type="button" value="Demarrer" onclick='setTimeout (afficherMessage, 3000);'/>
+	</body>
+</html>
