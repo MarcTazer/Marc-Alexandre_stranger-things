@@ -5,6 +5,7 @@
     padding-bottom: 20px; 
     font-weight: normal;
     margin: 20px;
+    background: linear-gradient(#e8f5ff, #45b2ff), 
 }
 .Lucas {
     font-size: 16px;
@@ -12,6 +13,7 @@
     padding-bottom: 20px; 
     font-weight: normal;
     margin: 20px;
+    background: linear-gradient(#ffa76a, #ff4431);
 }
 .Onze {
     font-size: 16px;
@@ -19,6 +21,7 @@
     padding-bottom: 20px; 
     font-weight: normal;
     margin: 20px;
+    background: linear-gradient(#9a8478, #1e130c);
 }
 .Mike {
     font-size: 16px;
@@ -26,6 +29,7 @@
     padding-bottom: 20px; 
     font-weight: normal;
     margin: 20px;
+    background: linear-gradient(#072239, #07d173);
 }
 .texte {
     width: 300px;
